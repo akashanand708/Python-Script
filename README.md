@@ -37,6 +37,8 @@ every time though we have only small number of changed files.
 4. nvm use **<**node version**>** **(if you are using nvm to switch to your node versions for your project or skip this)**
 4. python3 BE_FE_Linter.py **or** python BE_FE_Linter.py
 
+## Gif
+![Alt Text](http://g.recordit.co/Fh8dZ7bDCH.gif)
 
 License
 ----
